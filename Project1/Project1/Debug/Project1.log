@@ -1,0 +1,3 @@
+﻿  new template.cpp
+D:\c++\source\repos\Project1\Project1\new template.cpp(53,40): error C2440: “=”: 无法从“initializer list”转换为“char **”
+D:\c++\source\repos\Project1\Project1\new template.cpp(53,14): message : 初始值设定项包含过多元素

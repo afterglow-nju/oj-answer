@@ -1,0 +1,18 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 1 D. Le Mythe De Acesrc\week 1 D. Le Mythe De Acesrc\new template.cpp(49,9): warning C4244: “初始化”: 从“_Ty2”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty2=ll
+          ]
+D:\C\VC\Tools\MSVC\14.27.29110\include\xutility(4551,20): warning C4244: “=”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=ll
+          ]
+D:\c++\source\repos\week 1 D. Le Mythe De Acesrc\week 1 D. Le Mythe De Acesrc\new template.cpp(36): message : 查看对正在编译的函数 模板 实例化“void std::fill<int*,ll>(const _FwdIt,const _FwdIt,const _Ty &)”的引用
+          with
+          [
+              _FwdIt=int *,
+              _Ty=ll
+          ]
+  week 1 D. Le Mythe De Acesrc.vcxproj -> D:\c++\source\repos\week 1 D. Le Mythe De Acesrc\Debug\week 1 D. Le Mythe De Acesrc.exe

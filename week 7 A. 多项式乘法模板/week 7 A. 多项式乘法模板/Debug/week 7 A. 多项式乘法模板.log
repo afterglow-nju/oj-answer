@@ -1,0 +1,4 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 7 A. 多项式乘法模板\week 7 A. 多项式乘法模板\new template.cpp(41,12): warning C4101: “j”: 未引用的局部变量
+D:\c++\source\repos\week 7 A. 多项式乘法模板\week 7 A. 多项式乘法模板\new template.cpp(41,9): warning C4101: “i”: 未引用的局部变量
+  week 7 A. 多项式乘法模板.vcxproj -> D:\c++\source\repos\week 7 A. 多项式乘法模板\Debug\week 7 A. 多项式乘法模板.exe

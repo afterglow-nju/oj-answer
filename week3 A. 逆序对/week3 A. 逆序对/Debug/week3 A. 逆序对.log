@@ -1,0 +1,4 @@
+﻿  week3 A. 逆序对.cpp
+D:\c++\source\repos\week3 A. 逆序对\week3 A. 逆序对\week3 A. 逆序对.cpp(22,19): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\c++\source\repos\week3 A. 逆序对\week3 A. 逆序对\week3 A. 逆序对.cpp(22,28): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  week3 A. 逆序对.vcxproj -> D:\c++\source\repos\week3 A. 逆序对\Debug\week3 A. 逆序对.exe

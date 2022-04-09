@@ -1,0 +1,7 @@
+﻿  week 6 D.cpp
+D:\c++\source\repos\week 6 D\week 6 D\week 6 D.cpp(59,36): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week 6 D\week 6 D\week 6 D.cpp(63,36): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week 6 D\week 6 D\week 6 D.cpp(91,36): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week 6 D\week 6 D\week 6 D.cpp(94,53): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week 6 D\week 6 D\week 6 D.cpp(109,21): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  week 6 D.vcxproj -> D:\c++\source\repos\week 6 D\Debug\week 6 D.exe

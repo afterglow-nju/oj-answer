@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week 8 B. polya1", "week 8 B. polya1\week 8 B. polya1.vcxproj", "{E2335E82-3611-484C-82A1-A28B2BE93918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2335E82-3611-484C-82A1-A28B2BE93918}.Debug|x64.ActiveCfg = Debug|x64
+		{E2335E82-3611-484C-82A1-A28B2BE93918}.Debug|x64.Build.0 = Debug|x64
+		{E2335E82-3611-484C-82A1-A28B2BE93918}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2335E82-3611-484C-82A1-A28B2BE93918}.Debug|x86.Build.0 = Debug|Win32
+		{E2335E82-3611-484C-82A1-A28B2BE93918}.Release|x64.ActiveCfg = Release|x64
+		{E2335E82-3611-484C-82A1-A28B2BE93918}.Release|x64.Build.0 = Release|x64
+		{E2335E82-3611-484C-82A1-A28B2BE93918}.Release|x86.ActiveCfg = Release|Win32
+		{E2335E82-3611-484C-82A1-A28B2BE93918}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB3A913-961C-498E-9973-B8D7E5191A0A}
+	EndGlobalSection
+EndGlobal

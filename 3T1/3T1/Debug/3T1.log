@@ -1,0 +1,3 @@
+﻿  new template.cpp
+D:\c++\source\repos\3T1\3T1\new template.cpp(16,20): warning C4244: “初始化”: 从“double”转换到“ll”，可能丢失数据
+  3T1.vcxproj -> D:\c++\source\repos\3T1\Debug\3T1.exe

@@ -1,0 +1,33 @@
+﻿  week 6 D1.cpp
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(5,5): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(5,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(8,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(8,31): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(10,16): error C2065: “p”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(10,26): error C2065: “q”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(13,15): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(13,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(29,9): error C2065: “tem”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(30,9): error C2065: “tem”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(30,22): error C2065: “tem”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(31,9): error C2065: “q”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(31,16): error C2065: “tem”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(34,16): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(36,13): error C2065: “q”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(38,17): error C2872: “pair”: 不明确的符号
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(5,1): message : 可能是“int pair”
+D:\C\VC\Tools\MSVC\14.27.29110\include\utility(129,1): message : 或    “std::pair”
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(38,21): error C2062: 意外的类型“int”
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(39,13): error C2065: “q”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(41,19): error C2065: “t”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(42,13): error C2065: “q”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(42,26): error C2065: “t”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(47,17): error C2872: “pair”: 不明确的符号
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(5,1): message : 可能是“int pair”
+D:\C\VC\Tools\MSVC\14.27.29110\include\utility(129,1): message : 或    “std::pair”
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(47,21): error C2062: 意外的类型“int”
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(48,13): error C2065: “q”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(49,19): error C2065: “t”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(50,13): error C2065: “q”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(50,25): error C2065: “t”: 未声明的标识符
+D:\c++\source\repos\week 6 D1\week 6 D1\week 6 D1.cpp(55,13): error C2065: “q”: 未声明的标识符

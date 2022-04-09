@@ -1,0 +1,5 @@
+﻿  week 10 B. 编码表示.cpp
+D:\c++\source\repos\week 10 B. 编码表示\week 10 B. 编码表示\week 10 B. 编码表示.cpp(45,24): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\c++\source\repos\week 10 B. 编码表示\week 10 B. 编码表示\week 10 B. 编码表示.cpp(82,30): warning C4018: “<=”: 有符号/无符号不匹配
+D:\c++\source\repos\week 10 B. 编码表示\week 10 B. 编码表示\week 10 B. 编码表示.cpp(103,24): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+  week 10 B. 编码表示.vcxproj -> D:\c++\source\repos\week 10 B. 编码表示\Debug\week 10 B. 编码表示.exe

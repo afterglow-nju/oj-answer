@@ -1,0 +1,4 @@
+﻿  week8 C.cpp
+D:\c++\source\repos\week8 C\week8 C\week8 C.cpp(68,23): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\c++\source\repos\week8 C\week8 C\week8 C.cpp(53): warning C4715: “compare”: 不是所有的控件路径都返回值
+  week8 C.vcxproj -> D:\c++\source\repos\week8 C\Debug\week8 C.exe

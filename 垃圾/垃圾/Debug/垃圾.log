@@ -1,0 +1,5 @@
+﻿  垃圾.cpp
+D:\c++\source\repos\垃圾\垃圾\垃圾.cpp(30,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c++\source\repos\垃圾\垃圾\垃圾.cpp(43,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++\source\repos\垃圾\垃圾\垃圾.cpp(14,20): warning C4101: “x”: 未引用的局部变量
+  垃圾.vcxproj -> D:\c++\source\repos\垃圾\Debug\垃圾.exe

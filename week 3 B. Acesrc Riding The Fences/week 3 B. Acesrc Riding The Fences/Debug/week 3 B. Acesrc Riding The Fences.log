@@ -1,0 +1,12 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 3 B. Acesrc Riding The Fences\week 3 B. Acesrc Riding The Fences\new template.cpp(35,10): warning C4244: “参数”: 从“_Ty1”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty1=__int64
+          ]
+D:\c++\source\repos\week 3 B. Acesrc Riding The Fences\week 3 B. Acesrc Riding The Fences\new template.cpp(82,24): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+  week 3 B. Acesrc Riding The Fences.vcxproj -> D:\c++\source\repos\week 3 B. Acesrc Riding The Fences\Debug\week 3 B. Acesrc Riding The Fences.exe

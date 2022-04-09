@@ -1,0 +1,3 @@
+﻿  new template.cpp
+D:\c++\source\repos\Poj 2392 Space Elevator\Poj 2392 Space Elevator\new template.cpp(81,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  Poj 2392 Space Elevator.vcxproj -> D:\c++\source\repos\Poj 2392 Space Elevator\Debug\Poj 2392 Space Elevator.exe

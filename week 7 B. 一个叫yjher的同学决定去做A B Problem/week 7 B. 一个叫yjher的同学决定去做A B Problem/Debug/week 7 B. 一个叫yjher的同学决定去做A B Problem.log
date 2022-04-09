@@ -1,0 +1,4 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 7 B. 一个叫yjher的同学决定去做A B Problem\week 7 B. 一个叫yjher的同学决定去做A B Problem\new template.cpp(42,12): warning C4101: “j”: 未引用的局部变量
+D:\c++\source\repos\week 7 B. 一个叫yjher的同学决定去做A B Problem\week 7 B. 一个叫yjher的同学决定去做A B Problem\new template.cpp(42,9): warning C4101: “i”: 未引用的局部变量
+  week 7 B. 一个叫yjher的同学决定去做A B Problem.vcxproj -> D:\c++\source\repos\week 7 B. 一个叫yjher的同学决定去做A B Problem\Debug\week 7 B. 一个叫yjher的同学决定去做A B Problem.exe

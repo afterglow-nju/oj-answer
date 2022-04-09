@@ -1,0 +1,15 @@
+﻿  week1 B. 分油问题.cpp
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(28,11): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(42,57): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(42,74): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(48,57): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(48,74): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(54,57): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(54,74): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(60,57): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(60,74): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(66,57): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(66,74): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(72,57): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 B. 分油问题\week1 B. 分油问题\week1 B. 分油问题.cpp(72,74): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  week1 B. 分油问题.vcxproj -> D:\c++\source\repos\week1 B. 分油问题\Debug\week1 B. 分油问题.exe

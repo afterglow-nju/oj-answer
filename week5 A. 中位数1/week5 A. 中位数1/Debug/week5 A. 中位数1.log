@@ -1,0 +1,4 @@
+﻿  week5 A. 中位数1.cpp
+D:\c++\source\repos\week5 A. 中位数1\week5 A. 中位数1\week5 A. 中位数1.cpp(21,16): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+D:\c++\source\repos\week5 A. 中位数1\week5 A. 中位数1\week5 A. 中位数1.cpp(29,16): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+  week5 A. 中位数1.vcxproj -> D:\c++\source\repos\week5 A. 中位数1\Debug\week5 A. 中位数1.exe

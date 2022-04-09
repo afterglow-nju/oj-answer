@@ -1,0 +1,12 @@
+﻿  new template.cpp
+D:\c++\source\repos\dinic\dinic\new template.cpp(103,14): warning C4244: “初始化”: 从“_Ty2”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty2=ll
+          ]
+D:\c++\source\repos\dinic\dinic\new template.cpp(115,14): warning C4244: “初始化”: 从“_Ty2”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty2=ll
+          ]
+  dinic.vcxproj -> D:\c++\source\repos\dinic\Debug\dinic.exe

@@ -1,0 +1,3 @@
+﻿  魔方.cpp
+D:\c++\source\repos\魔方\魔方\魔方.cpp(9,12): warning C4101: “m”: 未引用的局部变量
+  魔方.vcxproj -> D:\c++\source\repos\魔方\Debug\魔方.exe

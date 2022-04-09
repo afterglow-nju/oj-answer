@@ -1,0 +1,4 @@
+﻿  week5 C.cpp
+D:\c++\source\repos\week5 C\week5 C\week5 C.cpp(79,11): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\c++\source\repos\week5 C\week5 C\week5 C.cpp(86,19): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  week5 C.vcxproj -> D:\c++\source\repos\week5 C\Debug\week5 C.exe

@@ -1,0 +1,4 @@
+﻿  递归实验.cpp
+D:\c++\source\repos\递归实验\递归实验\递归实验.cpp(11,25): warning C4101: “p”: 未引用的局部变量
+D:\c++\source\repos\递归实验\递归实验\递归实验.cpp(11,19): warning C4101: “zero”: 未引用的局部变量
+  递归实验.vcxproj -> D:\c++\source\repos\递归实验\Debug\递归实验.exe

@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+D:\c++\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,16): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+D:\c++\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(12,19): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+  ConsoleApplication3.vcxproj -> D:\c++\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe

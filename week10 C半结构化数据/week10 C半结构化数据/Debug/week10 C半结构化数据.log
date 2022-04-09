@@ -1,0 +1,39 @@
+﻿  week10 C半结构化数据.cpp
+D:\c++\source\repos\week10 C半结构化数据\week10 C半结构化数据\week10 C半结构化数据.cpp(79,35): warning C4018: “<=”: 有符号/无符号不匹配
+D:\c++\source\repos\week10 C半结构化数据\week10 C半结构化数据\week10 C半结构化数据.cpp(86,39): warning C4018: “<=”: 有符号/无符号不匹配
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(3984,1): error C2075: "_Val": 数组初始化需要带括号的初始值设定项列表
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(4108): message : 查看对正在编译的函数 模板 实例化“_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(_BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=char (*)[51],
+              _RanIt=char (*)[51],
+              _Pr=std::less<void>
+          ]
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(4138): message : 查看对正在编译的函数 模板 实例化“void std::_Sort_unchecked<_RanIt,_Fn>(_RanIt,_RanIt,int,_Pr)”的引用
+          with
+          [
+              _RanIt=char (*)[51],
+              _Fn=std::less<void>,
+              _Pr=std::less<void>
+          ]
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(4143): message : 查看对正在编译的函数 模板 实例化“void std::sort<_RanIt,std::less<void>>(const _RanIt,const _RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=char (*)[51],
+              _Pr=std::less<void>
+          ]
+D:\c++\source\repos\week10 C半结构化数据\week10 C半结构化数据\week10 C半结构化数据.cpp(138): message : 查看对正在编译的函数 模板 实例化“void std::sort<char(*)[51]>(const _RanIt,const _RanIt)”的引用
+          with
+          [
+              _RanIt=char (*)[51]
+          ]
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(3988,1): error C3863: 不可指定数组类型“char [51]”
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(3991,1): error C3863: 不可指定数组类型“char [51]”
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(3994,1): error C3863: 不可指定数组类型“char [51]”
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(3423,1): error C2075: "_Val": 数组初始化需要带括号的初始值设定项列表
+D:\C\VC\Tools\MSVC\14.27.29110\include\algorithm(4113): message : 查看对正在编译的函数 模板 实例化“void std::_Make_heap_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=char (*)[51],
+              _Pr=std::less<void>
+          ]

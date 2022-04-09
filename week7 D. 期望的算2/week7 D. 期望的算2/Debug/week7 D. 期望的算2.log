@@ -1,0 +1,7 @@
+﻿  week7 D. 期望的算2.cpp
+D:\c++\source\repos\week7 D. 期望的算2\week7 D. 期望的算2\week7 D. 期望的算2.cpp(4,8): warning C4244: “初始化”: 从“double”转换到“ll”，可能丢失数据
+D:\c++\source\repos\week7 D. 期望的算2\week7 D. 期望的算2\week7 D. 期望的算2.cpp(34,16): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+D:\c++\source\repos\week7 D. 期望的算2\week7 D. 期望的算2\week7 D. 期望的算2.cpp(36,54): warning C4244: “=”: 从“ll”转换到“int”，可能丢失数据
+D:\c++\source\repos\week7 D. 期望的算2\week7 D. 期望的算2\week7 D. 期望的算2.cpp(38,16): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+D:\c++\source\repos\week7 D. 期望的算2\week7 D. 期望的算2\week7 D. 期望的算2.cpp(40,68): warning C4244: “=”: 从“ll”转换到“int”，可能丢失数据
+  week7 D. 期望的算2.vcxproj -> D:\c++\source\repos\week7 D. 期望的算2\Debug\week7 D. 期望的算2.exe

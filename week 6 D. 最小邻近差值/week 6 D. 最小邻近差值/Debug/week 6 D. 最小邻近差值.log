@@ -1,0 +1,8 @@
+﻿  week 6 D. 最小邻近差值.cpp
+D:\c++\source\repos\week 6 D. 最小邻近差值\week 6 D. 最小邻近差值\week 6 D. 最小邻近差值.cpp(29,26): warning C4244: “=”: 从“ll”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+D:\c++\source\repos\week 6 D. 最小邻近差值\week 6 D. 最小邻近差值\week 6 D. 最小邻近差值.cpp(41,16): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+  week 6 D. 最小邻近差值.vcxproj -> D:\c++\source\repos\week 6 D. 最小邻近差值\Debug\week 6 D. 最小邻近差值.exe

@@ -1,0 +1,4 @@
+﻿  new template.cpp
+D:\c++\source\repos\Project2\Project2\new template.cpp(38,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\c++\source\repos\Project2\Project2\new template.cpp(66,22): warning C4101: “way2”: 未引用的局部变量
+  Project2.vcxproj -> D:\c++\source\repos\Project2\Debug\Project2.exe

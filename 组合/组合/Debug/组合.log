@@ -1,0 +1,4 @@
+﻿  组合.cpp
+D:\c++\source\repos\组合\组合\组合.cpp(23,16): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\组合\组合\组合.cpp(8,37): warning C4101: “c”: 未引用的局部变量
+  组合.vcxproj -> D:\c++\source\repos\组合\Debug\组合.exe

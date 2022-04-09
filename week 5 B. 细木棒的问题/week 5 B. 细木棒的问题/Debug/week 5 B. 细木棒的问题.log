@@ -1,0 +1,4 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 5 B. 细木棒的问题\week 5 B. 细木棒的问题\new template.cpp(29,47): warning C4244: “return”: 从“__int64”转换到“double”，可能丢失数据
+D:\c++\source\repos\week 5 B. 细木棒的问题\week 5 B. 细木棒的问题\new template.cpp(43,10): warning C4244: “=”: 从“ll”转换到“int”，可能丢失数据
+  week 5 B. 细木棒的问题.vcxproj -> D:\c++\source\repos\week 5 B. 细木棒的问题\Debug\week 5 B. 细木棒的问题.exe

@@ -1,0 +1,8 @@
+﻿  ganlu.cpp
+D:\c++\source\repos\ganlu\ganlu\ganlu.cpp(27,27): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+D:\c++\source\repos\ganlu\ganlu\ganlu.cpp(27,27): message : 此参数用作缓冲区大小
+D:\c++\source\repos\ganlu\ganlu\ganlu.cpp(27,27): warning C4473: “sscanf_s”: 没有为格式字符串传递足够的参数
+D:\c++\source\repos\ganlu\ganlu\ganlu.cpp(27,27): message : 占位符和其参数预计 6 可变参数，但提供的却是 3 参数
+D:\c++\source\repos\ganlu\ganlu\ganlu.cpp(27,27): message : 缺失的可变参数 4 为格式字符串“%s”所需
+D:\c++\source\repos\ganlu\ganlu\ganlu.cpp(27,27): message : 此参数用作缓冲区大小
+  ganlu.vcxproj -> D:\c++\source\repos\ganlu\Debug\ganlu.exe

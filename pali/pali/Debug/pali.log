@@ -1,0 +1,4 @@
+﻿  pali.cpp
+D:\c++\source\repos\pali\pali\pali.cpp(108,13): warning C4244: “=”: 从“ll”转换到“int”，可能丢失数据
+D:\c++\source\repos\pali\pali\pali.cpp(112,19): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+  pali.vcxproj -> D:\c++\source\repos\pali\Debug\pali.exe

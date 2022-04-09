@@ -1,0 +1,9 @@
+﻿  new template.cpp
+D:\c++\source\repos\Poj 1276 Cash Machine\Poj 1276 Cash Machine\new template.cpp(20,9): warning C4101: “j”: 未引用的局部变量
+D:\c++\source\repos\Poj 1276 Cash Machine\Poj 1276 Cash Machine\new template.cpp(20,6): warning C4101: “i”: 未引用的局部变量
+D:\c++\source\repos\Poj 1276 Cash Machine\Poj 1276 Cash Machine\new template.cpp(41,19): error C2086: “int val[100001]”: 重定义
+D:\c++\source\repos\Poj 1276 Cash Machine\Poj 1276 Cash Machine\new template.cpp(16): message : 参见“val”的声明
+D:\c++\source\repos\Poj 1276 Cash Machine\Poj 1276 Cash Machine\new template.cpp(41,30): error C2086: “int d[100001]”: 重定义
+D:\c++\source\repos\Poj 1276 Cash Machine\Poj 1276 Cash Machine\new template.cpp(16): message : 参见“d”的声明
+D:\c++\source\repos\Poj 1276 Cash Machine\Poj 1276 Cash Machine\new template.cpp(41,39): error C2369: “v”: 重定义；不同的下标
+D:\c++\source\repos\Poj 1276 Cash Machine\Poj 1276 Cash Machine\new template.cpp(16): message : 参见“v”的声明

@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\严宇澄\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(14,16): warning C4244: “return”: 从“long double”转换到“int”，可能丢失数据
+  ConsoleApplication4.vcxproj -> C:\Users\严宇澄\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe

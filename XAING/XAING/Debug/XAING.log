@@ -1,0 +1,4 @@
+﻿  XAING.cpp
+D:\c++\source\repos\XAING\XAING\XAING.cpp(114,6): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\c++\source\repos\XAING\XAING\XAING.cpp(129,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  XAING.vcxproj -> D:\c++\source\repos\XAING\Debug\XAING.exe

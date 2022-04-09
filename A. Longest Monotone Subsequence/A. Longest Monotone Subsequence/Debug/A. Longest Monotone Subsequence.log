@@ -1,0 +1,4 @@
+﻿  A. Longest Monotone Subsequence.cpp
+D:\c++\source\repos\A. Longest Monotone Subsequence\A. Longest Monotone Subsequence\A. Longest Monotone Subsequence.cpp(21,6): warning C4101: “f”: 未引用的局部变量
+D:\c++\source\repos\A. Longest Monotone Subsequence\A. Longest Monotone Subsequence\A. Longest Monotone Subsequence.cpp(21,14): warning C4101: “g”: 未引用的局部变量
+  A. Longest Monotone Subsequence.vcxproj -> D:\c++\source\repos\A. Longest Monotone Subsequence\Debug\A. Longest Monotone Subsequence.exe

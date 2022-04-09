@@ -1,0 +1,4 @@
+﻿  new template.cpp
+D:\c++\source\repos\Poj 2184 Cow Exhibition\Poj 2184 Cow Exhibition\new template.cpp(36,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\Poj 2184 Cow Exhibition\Poj 2184 Cow Exhibition\new template.cpp(46,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  Poj 2184 Cow Exhibition.vcxproj -> D:\c++\source\repos\Poj 2184 Cow Exhibition\Debug\Poj 2184 Cow Exhibition.exe

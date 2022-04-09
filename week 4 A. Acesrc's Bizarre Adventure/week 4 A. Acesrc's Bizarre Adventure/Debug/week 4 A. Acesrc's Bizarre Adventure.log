@@ -1,0 +1,4 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 4 A. Acesrc's Bizarre Adventure\week 4 A. Acesrc's Bizarre Adventure\new template.cpp(51,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\c++\source\repos\week 4 A. Acesrc's Bizarre Adventure\week 4 A. Acesrc's Bizarre Adventure\new template.cpp(66,33): warning C4018: “<”: 有符号/无符号不匹配
+  week 4 A. Acesrc's Bizarre Adventure.vcxproj -> D:\c++\source\repos\week 4 A. Acesrc's Bizarre Adventure\Debug\week 4 A. Acesrc's Bizarre Adventure.exe

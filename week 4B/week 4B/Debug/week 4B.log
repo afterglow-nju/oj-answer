@@ -1,0 +1,4 @@
+﻿  week 4B.cpp
+D:\c++\source\repos\week 4B\week 4B\week 4B.cpp(50,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c++\source\repos\week 4B\week 4B\week 4B.cpp(63,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  week 4B.vcxproj -> D:\c++\source\repos\week 4B\Debug\week 4B.exe

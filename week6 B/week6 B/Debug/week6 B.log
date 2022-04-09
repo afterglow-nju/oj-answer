@@ -1,0 +1,4 @@
+﻿  week6 B.cpp
+D:\c++\source\repos\week6 B\week6 B\week6 B.cpp(17,11): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week6 B\week6 B\week6 B.cpp(23,14): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  week6 B.vcxproj -> D:\c++\source\repos\week6 B\Debug\week6 B.exe

@@ -1,0 +1,3 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 4 A. 聚会地点问题\week 4 A. 聚会地点问题\new template.cpp(16,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  week 4 A. 聚会地点问题.vcxproj -> D:\c++\source\repos\week 4 A. 聚会地点问题\Debug\week 4 A. 聚会地点问题.exe

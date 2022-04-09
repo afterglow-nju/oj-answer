@@ -1,0 +1,7 @@
+﻿  new template.cpp
+D:\c++\source\repos\week3 A. 拓扑排序\week3 A. 拓扑排序\new template.cpp(45,9): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=ll
+          ]
+  week3 A. 拓扑排序.vcxproj -> D:\c++\source\repos\week3 A. 拓扑排序\Debug\week3 A. 拓扑排序.exe

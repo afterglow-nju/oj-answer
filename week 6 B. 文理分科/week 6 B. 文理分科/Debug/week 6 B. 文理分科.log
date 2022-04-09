@@ -1,0 +1,8 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 6 B. 文理分科\week 6 B. 文理分科\new template.cpp(19,38): warning C4305: “初始化”: 从“__int64”到“int”截断
+D:\c++\source\repos\week 6 B. 文理分科\week 6 B. 文理分科\new template.cpp(19,18): warning C4309: “初始化”: 截断常量值
+D:\c++\source\repos\week 6 B. 文理分科\week 6 B. 文理分科\new template.cpp(20,37): warning C4305: “初始化”: 从“__int64”到“int”截断
+D:\c++\source\repos\week 6 B. 文理分科\week 6 B. 文理分科\new template.cpp(20,17): warning C4309: “初始化”: 截断常量值
+D:\c++\source\repos\week 6 B. 文理分科\week 6 B. 文理分科\new template.cpp(56,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\c++\source\repos\week 6 B. 文理分科\week 6 B. 文理分科\new template.cpp(71,33): warning C4018: “<”: 有符号/无符号不匹配
+  week 6 B. 文理分科.vcxproj -> D:\c++\source\repos\week 6 B. 文理分科\Debug\week 6 B. 文理分科.exe

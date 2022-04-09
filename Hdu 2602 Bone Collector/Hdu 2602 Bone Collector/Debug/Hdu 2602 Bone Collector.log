@@ -1,0 +1,4 @@
+﻿  Hdu 2602 Bone Collector.cpp
+D:\c++\source\repos\Hdu 2602 Bone Collector\Hdu 2602 Bone Collector\Hdu 2602 Bone Collector.cpp(35,42): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+D:\c++\source\repos\Hdu 2602 Bone Collector\Hdu 2602 Bone Collector\Hdu 2602 Bone Collector.cpp(38,55): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  Hdu 2602 Bone Collector.vcxproj -> D:\c++\source\repos\Hdu 2602 Bone Collector\Debug\Hdu 2602 Bone Collector.exe

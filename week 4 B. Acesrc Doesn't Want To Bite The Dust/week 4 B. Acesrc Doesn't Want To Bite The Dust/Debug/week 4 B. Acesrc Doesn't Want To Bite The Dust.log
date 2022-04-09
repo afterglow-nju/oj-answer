@@ -1,0 +1,21 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 4 B. Acesrc Doesn't Want To Bite The Dust\week 4 B. Acesrc Doesn't Want To Bite The Dust\new template.cpp(16,23): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\c++\source\repos\week 4 B. Acesrc Doesn't Want To Bite The Dust\week 4 B. Acesrc Doesn't Want To Bite The Dust\new template.cpp(56,38): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\c++\source\repos\week 4 B. Acesrc Doesn't Want To Bite The Dust\week 4 B. Acesrc Doesn't Want To Bite The Dust\new template.cpp(56,39): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+D:\c++\source\repos\week 4 B. Acesrc Doesn't Want To Bite The Dust\week 4 B. Acesrc Doesn't Want To Bite The Dust\new template.cpp(71,34): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\c++\source\repos\week 4 B. Acesrc Doesn't Want To Bite The Dust\week 4 B. Acesrc Doesn't Want To Bite The Dust\new template.cpp(71,35): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+D:\c++\source\repos\week 4 B. Acesrc Doesn't Want To Bite The Dust\week 4 B. Acesrc Doesn't Want To Bite The Dust\new template.cpp(74,28): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\c++\source\repos\week 4 B. Acesrc Doesn't Want To Bite The Dust\week 4 B. Acesrc Doesn't Want To Bite The Dust\new template.cpp(74,31): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+  week 4 B. Acesrc Doesn't Want To Bite The Dust.vcxproj -> D:\c++\source\repos\week 4 B. Acesrc Doesn't Want To Bite The Dust\Debug\week 4 B. Acesrc Doesn't Want To Bite The Dust.exe

@@ -1,0 +1,3 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 7 C. 方程求解\week 7 C. 方程求解\new template.cpp(107,66): warning C4244: “参数”: 从“__int64”转换到“double”，可能丢失数据
+  week 7 C. 方程求解.vcxproj -> D:\c++\source\repos\week 7 C. 方程求解\Debug\week 7 C. 方程求解.exe

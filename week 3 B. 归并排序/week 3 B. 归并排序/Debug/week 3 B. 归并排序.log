@@ -1,0 +1,4 @@
+﻿  week 3 B. 归并排序.cpp
+D:\c++\source\repos\week 3 B. 归并排序\week 3 B. 归并排序\week 3 B. 归并排序.cpp(14,24): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week 3 B. 归并排序\week 3 B. 归并排序\week 3 B. 归并排序.cpp(36,15): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  week 3 B. 归并排序.vcxproj -> D:\c++\source\repos\week 3 B. 归并排序\Debug\week 3 B. 归并排序.exe

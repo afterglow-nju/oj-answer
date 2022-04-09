@@ -1,0 +1,4 @@
+﻿  magic cube.cpp
+D:\c++\source\repos\magic cube\magic cube\magic cube.cpp(54,30): warning C4805: “&=”: 在操作中将类型“bool”与类型“int”混合不安全
+D:\c++\source\repos\magic cube\magic cube\magic cube.cpp(54,30): warning C4805: “&”: 在操作中将类型“bool”与类型“int”混合不安全
+  magic cube.vcxproj -> D:\c++\source\repos\magic cube\Debug\magic cube.exe

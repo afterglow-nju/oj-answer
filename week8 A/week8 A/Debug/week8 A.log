@@ -1,0 +1,4 @@
+﻿  week8 A.cpp
+C:\Users\严宇澄\source\repos\week8 A\week8 A\week8 A.cpp(4,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\严宇澄\source\repos\week8 A\week8 A\week8 A.cpp(11,20): warning C4018: “<”: 有符号/无符号不匹配
+  week8 A.vcxproj -> C:\Users\严宇澄\source\repos\week8 A\Debug\week8 A.exe

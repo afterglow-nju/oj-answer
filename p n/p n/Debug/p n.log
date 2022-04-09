@@ -1,0 +1,3 @@
+﻿  p n.cpp
+D:\c++\source\repos\p n\p n\p n.cpp(20,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  p n.vcxproj -> D:\c++\source\repos\p n\Debug\p n.exe

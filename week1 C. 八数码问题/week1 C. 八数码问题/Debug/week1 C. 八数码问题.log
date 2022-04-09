@@ -1,0 +1,4 @@
+﻿  week1 C. 八数码问题.cpp
+D:\c++\source\repos\week1 C. 八数码问题\week1 C. 八数码问题\week1 C. 八数码问题.cpp(68,31): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\source\repos\week1 C. 八数码问题\week1 C. 八数码问题\week1 C. 八数码问题.cpp(133,48): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+  week1 C. 八数码问题.vcxproj -> D:\c++\source\repos\week1 C. 八数码问题\Debug\week1 C. 八数码问题.exe
