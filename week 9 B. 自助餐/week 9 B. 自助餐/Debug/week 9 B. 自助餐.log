@@ -1,0 +1,3 @@
+﻿  new template.cpp
+D:\c++\source\repos\week 9 B. 自助餐\week 9 B. 自助餐\new template.cpp(23,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  week 9 B. 自助餐.vcxproj -> D:\c++\source\repos\week 9 B. 自助餐\Debug\week 9 B. 自助餐.exe

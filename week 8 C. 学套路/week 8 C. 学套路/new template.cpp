@@ -20,7 +20,7 @@ const ll maxn = 1e6 + 10;
 ll n,p, q, x, y, z;
 struct node
 {
-    ll val, left, right, Max, Or ;
+    ll val, left, right, Max, Or;
     ll premax, preor, postmax, postor;
 
 }A[maxn];
@@ -31,8 +31,6 @@ void cal()
     while (!S.empty())S.pop();//真的需要！！！！！！
     for (ll i = 1; i <= n + 1; i++)
     {
-       
-        
         if (S.empty() || A[S.top()].val <= A[i].val)S.push(i);
         else
         {
@@ -102,6 +100,8 @@ int main()
         A[0].premax = 0, A[0].preor = 0;
         A[0].postmax = 0, A[0].postor = 0;
          cal();
+
+        //以下是没开int128的写法，你开了128就直接取模就可以了
         ll ans0 = 0, ans1 = 0;
         ll tem0, tem1;
         for (ll i = 1; i <= n; i++)
@@ -109,9 +109,9 @@ int main()
            
             tem0 = 0, tem1 = 0;
             tem0 = A[i].val * (A[i].Max - A[i].val) * (A[i].right - A[i].left + 1);// *A[i].Or;
-         //   if (tem0 > ans0)ans0 = tem0;
-// cout << A[i].Max<<" "<<A[i].val << '\n';
-           tem1 = tem0 / mod;
+            //   if (tem0 > ans0)ans0 = tem0;
+            // cout << A[i].Max<<" "<<A[i].val << '\n';
+            tem1 = tem0 / mod;
             tem0 = tem0 % mod;
             tem1 *= A[i].Or;
             tem0 *= A[i].Or;
