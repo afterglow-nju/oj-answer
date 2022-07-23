@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第四学期期末考试 T1", "第四学期期末考试 T1\第四学期期末考试 T1.vcxproj", "{2832CE7F-4B20-4F48-9321-313D5BEA2628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2832CE7F-4B20-4F48-9321-313D5BEA2628}.Debug|x64.ActiveCfg = Debug|x64
+		{2832CE7F-4B20-4F48-9321-313D5BEA2628}.Debug|x64.Build.0 = Debug|x64
+		{2832CE7F-4B20-4F48-9321-313D5BEA2628}.Debug|x86.ActiveCfg = Debug|Win32
+		{2832CE7F-4B20-4F48-9321-313D5BEA2628}.Debug|x86.Build.0 = Debug|Win32
+		{2832CE7F-4B20-4F48-9321-313D5BEA2628}.Release|x64.ActiveCfg = Release|x64
+		{2832CE7F-4B20-4F48-9321-313D5BEA2628}.Release|x64.Build.0 = Release|x64
+		{2832CE7F-4B20-4F48-9321-313D5BEA2628}.Release|x86.ActiveCfg = Release|Win32
+		{2832CE7F-4B20-4F48-9321-313D5BEA2628}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {022D548F-DFF3-4F35-AE3D-79CE044C67AC}
+	EndGlobalSection
+EndGlobal
